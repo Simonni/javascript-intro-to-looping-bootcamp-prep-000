@@ -22,8 +22,8 @@ return 'done';
 
 // do while loop
 function doWhileLoop(array){
-  i=0;
-  incrementVariable(){
+  var i=0;
+  function incrementVariable(){
     i=i+1;
   }
   do{
