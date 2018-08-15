@@ -24,6 +24,6 @@ return 'done';
 function doWhileLoop(array){
   i=0;
   incrementVariable(){
-    
+    i=i+1;
   }
 }
