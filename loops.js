@@ -30,6 +30,6 @@ function doWhileLoop(array){
     console.log("array.length = " + array.length + " and i = "+i)
     array= array.slice-1();
     incrementVariable();
-    
+  } whileLoop
   }
 }
