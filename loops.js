@@ -21,11 +21,6 @@ return 'done';
 }
 
 // do while loop
-var i = 0;
-var arrary =[];
-function incrementVariable(arrary){
-  console.log();
+function doWhileLoop(array){
+  
 }
-do {i = i+1;
- array = array + 1;
-} while (i===array.length > 0 && incrementVariable===array);
