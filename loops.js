@@ -13,7 +13,7 @@ return array;
 
 // while loop
 
-function whileLoop(number){
+function whileLoop(n){
 let countdown = 20;
 while (countdown < 0){
   countdown++;
