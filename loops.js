@@ -32,5 +32,5 @@ function doWhileLoop(array){
     incrementVariable();
   } while(array.length > 0 && i<5);
   return array;
-  }
+
 }
